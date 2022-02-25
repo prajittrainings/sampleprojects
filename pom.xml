@@ -5,10 +5,10 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.mycompany</groupId>
-	<artifactId>mulesoft-cicd-sample1</artifactId>
+	<artifactId>mulesoft-cicd-sample2</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>mule-application</packaging>
-	<name>mulesoft-cicd-sample1</name>
+	<name>mulesoft-cicd-sample2</name>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -26,7 +26,7 @@
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>4.3.0</muleVersion>
-						<applicationName>mulesoft-cicd-sample1</applicationName>
+						<applicationName>mulesoft-cicd-sample2</applicationName>
 						<environment>Sandbox</environment>
 						<workerType>MICRO</workerType>
 						<connectedAppClientId>0a2e2d765f894691aa7cd5eecb03bb80</connectedAppClientId>
