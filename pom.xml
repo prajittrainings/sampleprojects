@@ -29,9 +29,9 @@
 						<applicationName>mulesoft-cicd-sample1</applicationName>
 						<environment>Sandbox</environment>
 						<workerType>MICRO</workerType>
-						<connectedAppClientId></connectedAppClientId>
-						<connectedAppClientSecret></connectedAppClientSecret>
-						<connectedAppGrantType></connectedAppGrantType>
+						<connectedAppClientId>0a2e2d765f894691aa7cd5eecb03bb80</connectedAppClientId>
+						<connectedAppClientSecret>280bCD709ffF435CA46Bbd0607209862</connectedAppClientSecret>
+						<connectedAppGrantType>client_credentials</connectedAppGrantType>
 						<objectStoreV2>true</objectStoreV2>
 						<region>us-east-2</region>
 					</cloudHubDeployment>
