@@ -24,7 +24,7 @@
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>4.3.0</muleVersion>
-						<applicationName>mulesoft-cicd-sample2</applicationName>
+						<applicationName>mulesoft-cicd-sample</applicationName>
 						<environment>Sandbox</environment>
 						<workerType>MICRO</workerType>
 						<connectedAppClientId>0a2e2d765f894691aa7cd5eecb03bb80</connectedAppClientId>
