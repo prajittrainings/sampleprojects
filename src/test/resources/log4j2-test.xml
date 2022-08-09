@@ -5,7 +5,6 @@
             <PatternLayout pattern="%-5p %d [%t] %c: %m%n"/>
         </Console>
     </Appenders>
-
     <Loggers>
     
         <!-- Http Logger shows wire traffic on DEBUG. -->
